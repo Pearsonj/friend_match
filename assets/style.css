@@ -1,0 +1,17 @@
+html, body{
+    background-color: black;
+    text-align: center;
+}
+
+#jumbo1 {
+    width: 75%;
+    position: relative;
+    left: -1%;
+    margin: 14%;
+}
+
+.question{
+    width: 6%;
+    position: relative;
+    left: 48%;
+}
